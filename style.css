@@ -4,21 +4,24 @@
 }
 html{
     text-align: center;
+    background-color: paleturquoise;
 }
 #char {
     width: 150px;
     height: 130px;
-    background-color: antiquewhite;
+    background-color: rgb(138, 242, 93);
     border: 1px brown solid;
     margin-left: 670px;
     font-size: 100px;
     margin-top: 300px;
+    font-family: comics sans ms,cursive;
+    font-style: normal;
 }
 #all{ 
-    
+    margin-top: 55px;
     height: 100%;
     width: 100%;
-    background-color:paleturquoise;
+    background-color:rgb(229, 241, 98);
     border: 3px brown solid;
     padding: 10px;
     margin-left: auto;
